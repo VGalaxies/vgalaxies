@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm V_Galaxy</h1>
 <h3 align="center">a sophomore majoring in software engineering in Nanjing University</h3>
 
-- 📝 I regularly write articles on **[https://vgalaxy.gitee.io/](https://vgalaxy.gitee.io/)**
+- 📝 I regularly write articles on **[here](http://150.158.197.57/)**
 
 - 📫 How to reach me **201250012@smail.nju.edu.cn**
 
