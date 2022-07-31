@@ -27,7 +27,7 @@ jobs:
 
           # Options
           user: VGalaxies
-          template: terminal
+          template: classic
           base: header, activity, community, repositories
           config_timezone: Asia/Shanghai
           plugin_calendar: yes
