@@ -39,5 +39,5 @@ jobs:
           plugin_lines: yes
           plugin_rss: yes
           plugin_rss_limit: 8
-          plugin_rss_source: http://150.158.197.57/rss.xml
+          plugin_rss_source: https://vgalaxies-blog.vercel.app/rss.xml
           plugin_traffic: yes
